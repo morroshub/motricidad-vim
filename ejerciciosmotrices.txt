@@ -1,0 +1,18 @@
+(base) ┌──(lucasmorrone  MBPdeLucas880)-[~/documents/Code-project/laberintovim]
+└─$ vim ejerciciosmotrices.txt
+Error detected while processing /Users/lucasmorrone/.vimrc:
+line   21:
+E492: Not an editor command: Plug 'junegunn/fzf', { 'do': { -> fzf#install() } 
+line   22:
+E492: Not an editor command: Plug 'junegunn/fzf.vim'curl: (3) URL rejected: Malformed input to a URL function
+
+line   39:
+E492: Not an editor command:     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+line   43:
+E117: Unknown function: plug#begin
+line   44:
+E492: Not an editor command: Plug 'neoclide/coc.nvim', {'branch': 'release'}
+line   46:
+E117: Unknown function: plug#end
+Press ENTER or type command to continue
+
